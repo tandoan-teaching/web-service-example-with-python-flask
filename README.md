@@ -4,4 +4,5 @@
 <br>- SOAP (Simple Object Access Protocol): A protocol for exchanging information in a structured format, often using XML.
 <br>- REST (Representational State Transfer): A more modern and widely used approach that relies on HTTP methods (GET, POST, PUT, DELETE) to interact with resources.
 
-Read more: https://medium.com/@tandoancs/web-services-with-python-783ef5fa53fa
+- Read more: https://medium.com/@tandoancs/web-services-with-python-783ef5fa53fa
+- What is Web service? https://medium.com/@tandoancs/what-is-web-service-8208d78d4be7
